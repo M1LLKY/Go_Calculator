@@ -1,7 +1,7 @@
 package main
 
 import (
-	"Calculator/internal/mathlib"
+	"Go_Calculator/internal/mathlib"
 	"fmt"
 )
 
